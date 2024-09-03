@@ -2,7 +2,7 @@
 
 # Descrição do Projeto
 
-O PlantioCerto é um aplicativo de linha de comando (CLI) desenvolvido para auxiliar agricultores e entusiastas da agricultura 
+O PlantioCerto é um aplicativo de terminal desenvolvido para auxiliar agricultores familiares e entusiastas da agricultura 
 a gerenciar colheitas, vendas de produtos agrícolas, e receber feedbacks de clientes. O objetivo do aplicativo é fornecer ferramentas 
 que ajudem no planejamento e execução de atividades relacionadas ao cultivo, desde o início da colheita até a venda dos produtos
 no mercado.
