@@ -107,7 +107,6 @@ Navegue pelo menu usando os números correspondentes às opções e siga as inst
 
 
 ## Autor
-
 Luiz Eduardo - Desenvolvedor Principal
 Github (https://github.com/LuizDev-make)
   
